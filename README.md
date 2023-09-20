@@ -4,3 +4,4 @@
 
 ## SDXL artist styles studies
 (つ✧ω✧)つ [browse the images](https://sdxl.parrotzone.art/)｡.:*･゜ﾟ･*☆
+#### offline version of sdxl.parrotzone.art available [here](https://github.com/proximasan/sdxl_artist_styles_studies)
