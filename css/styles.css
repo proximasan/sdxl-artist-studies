@@ -129,18 +129,18 @@ a {
 /* New media query */
 @media only screen and (max-width: 760px) {
   .ascii-art-prox {
-    font-size: 0.5em; /* adjust as needed */
+    font-size: 2vw !important;
   }
 }
 
 @media only screen and (max-width: 560px) {
   .ascii-art-prox {
-    font-size: 0.4em; /* adjust as needed */
+    font-size: 1.5vw !important;
   }
 }
 
 @media only screen and (max-width: 360px) {
   .ascii-art-prox {
-    font-size: 0.3em; /* adjust as needed */
+    font-size: 1vw !important;
   }
 }
