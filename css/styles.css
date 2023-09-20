@@ -125,3 +125,10 @@ a {
 .green-line-19 { color: #ff8a33; }
 .special-symbol { color: #FFFFFF; }
 .special-symbol2 { color: #ffba5a; }
+
+/* New media query */
+@media only screen and (max-width: 760px) {
+  .ascii-art-prox {
+    font-size: 0.5em; /* adjust as needed */
+  }
+}
